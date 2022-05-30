@@ -1,3 +1,13 @@
+<html><body>
+    This is test.
+    
 <?php
-
-echo "hello world";
+ 
+$a="Hello";
+$b="world";
+ 
+echo "$a, $b";
+ 
+?>
+ 
+</body></html>
